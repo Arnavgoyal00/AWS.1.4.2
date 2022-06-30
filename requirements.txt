@@ -1,0 +1,11 @@
+dnspython==1.16.0
+email-validator==1.1.0
+Flask==1.1.2
+Flask-WTF==0.14.3
+pyparsing==2.4.7
+python-dateutil==2.8.1
+pytz==2020.1
+regex==2020.5.7
+tqdm==4.46.0
+Werkzeug==1.0.1
+WTForms==2.3.1
